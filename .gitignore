@@ -121,11 +121,3 @@ app.*.symbols
 
 
 
-# === IDE Settings (Add these!) ===
-.idea/
-*.iml
-*.iws
-.vscode/
-.classpath
-.project
-.settings/
